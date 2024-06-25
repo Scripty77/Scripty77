@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Jean</h1>
 <h3 align="center">Developer And Ethical Hacker Passionate About Technology And Computer Security</h3>
 
-- 💬 Ask me about **development low level**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/raiku.ron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raiku.ron" height="30" width="40" /></a>
+<a href="https://twitter.com/skatron1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skatron1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
