@@ -49,6 +49,6 @@
 
 ###
 
-<p align="left">Website Personal --------->https://raiku.social/<---------</p>
+<p align="left">Website Personal --------->https://raikusocial.netlify.app/<---------</p>
 
 ###
