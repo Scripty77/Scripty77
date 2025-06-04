@@ -1,10 +1,19 @@
-<h2 align="center">Hi 🎲! My name is Jean, and I am a full-stack in development</h2>
+<h2 align="center">Hi (≧◡≦)  My name is Jean, and I am a full-stack in development</h2>
 
 ###
 
-<p align="left">Passionate about backend and blockchain, I like mathematics and cybersecurity.</p>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex:1">
+    <h2>Passionate about backend and blockchain, I like mathematics and cybersecurity.</h2>
+  </div>
+  <div>
+    <img height="210" src="./compu.jpg"/>
+  </div>
+</div>
 
 ###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -34,7 +43,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Scripty77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Scripty77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -42,11 +51,12 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://i.pinimg.com/736x/e2/b1/2e/e2b12e39733d55d0e36b96fc4a149857.jpg"  />
+  <img height="280" src="/teclado.jpg"  />
 </div>
 
 ###
 
-<p align="left">Website Personal --------->https://raikusocial.netlify.app/<---------</p>
+<p align="center">Website Personal --------->https://raikusocial.netlify.app/<---------</p>
 
 ###
+
