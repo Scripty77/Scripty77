@@ -2,20 +2,15 @@
 
 ###
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex:1">
-    <h2>Passionate about backend and blockchain, I like mathematics and cybersecurity.</h2>
-  </div>
-  <div>
-    <img height="210" src="./compu.jpg"/>
-  </div>
+<div align="center">
+  <img height="280" src="/img.jpg"  />
 </div>
 
 ###
 
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
