@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I like designing things, solving problems, and learning from them /n.n </p>
+<p align="center">I like designing things, solving problems, and learning /n.n </p>
 
 ###
 
